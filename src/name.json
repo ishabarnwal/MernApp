@@ -1,0 +1,20 @@
+[
+	{
+	 "userId" : 1,
+	 "name" : "Isha",
+	 "email" : "abc@gmail.com",
+	 "mobile" : 9999
+	},
+	{
+	"userId" : 2,
+	 "name" : "Rishu",
+	 "email" : "abfc@com",
+	 "mobile" : 992299
+	},
+	{
+	"userId" : 3,
+	 "name" : "Dev",
+	 "email" : "abfffc@com",
+	 "mobile" : 900999
+	}
+]
